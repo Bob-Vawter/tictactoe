@@ -1,0 +1,45 @@
+
+body {
+  font-family: "Arial", sans-serif;
+  /* background: #ffff66; */
+  background-image: linear-gradient(to right, red, yellow);
+}
+section {
+  text-align: center;
+}
+
+.game-title {
+  font-family: 'RocknRoll One', sans-serif;
+  font-size: 40px;
+}
+
+.game-container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  width: 306px;
+  margin: 40px auto;
+}
+.box {
+  font-family: "Permanent Marker", cursive;
+  background: white;
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 0 0 1px #333333;
+  border: 1px solid #333333;
+  cursor: pointer;
+  line-height: 100px;
+  font-size: 60px;
+}
+.box:hover {
+  background: #cce6ff;
+}
+
+.game-restart {
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.game-restart:hover {
+  color: white;
+  background: #339cff;
+}
