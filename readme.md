@@ -18,4 +18,4 @@ Take a look at a couple of examples that I have in my own portfolio:
 
 **Tic Tac Toe:** https://tictactoe-bob.netlify.app/
 
-**Rock Paper Scissors:** https://rockpaperscissors-app.netlify.app/v
+**Rock Paper Scissors:** https://rockpaperscissors-app.netlify.app/
